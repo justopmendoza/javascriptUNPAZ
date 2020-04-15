@@ -9,3 +9,5 @@ nombreUsuario = prompt("Ingrese su nombre: ");
 console.log("su nombre es " + nombreUsuario);
 edad = prompt("Cuántos años tenés?: ");
 console.log("Tenés " + edad + "años");
+curso = prompt("Ingrese curso realizado: ");
+console.log("Realizaste el curso de: " + curso);
